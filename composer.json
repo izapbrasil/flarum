@@ -21,7 +21,7 @@
         "docs": "https://flarum.org/docs/"
     },
     "require": {
-        "flarum/core": "^0.1.0",
+        "izapbrasil/core": "^0.1.0",
         "flarum/approval": "^0.1.0",
         "flarum/auth-facebook": "^0.1.0",
         "flarum/auth-github": "^0.1.0",
@@ -33,7 +33,7 @@
         "flarum/likes": "^0.1.0",
         "flarum/lock": "^0.1.0",
         "flarum/markdown": "^0.1.0",
-        "flarum/mentions": "^0.1.0",
+        "izapbrasil/mentions": "^0.1.0",
         "flarum/pusher": "^0.1.0",
         "flarum/statistics": "^0.1.0",
         "flarum/sticky": "^0.1.0",
